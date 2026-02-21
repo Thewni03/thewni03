@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ushara Chamuditha Kumara</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h1 align="center">Hi 👋, I'm Thewni Mahathanthree</h1>
+<h3 align="center">A passionate backend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=usharachamudithakumara&label=Profile%20views&color=0e75b6&style=flat" alt="usharachamudithakumara" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThewniMahathanthree&label=Profile%20views&color=0e75b6&style=flat" alt="ThewniMahathanthree" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usharachamudithakumara" alt="usharachamudithakumara" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ThewniMahathanthree" alt="ThewniMahathanthree" /></a> </p>
 
 - 🔭 I’m currently working on **ITP project**
 
@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **usharakumara20030820@gmail.com**
+- 📫 How to reach me **ThewniMahathanthree@gmail.com**
 
-- ⚡ Fun fact **Call me Kumara**
+- ⚡ Fun fact **Call me Thew**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
