@@ -6,7 +6,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=25&center=true&vCenter=true&width=600&lines=She+Believed+She+Could+So+She+Coded;Java+%7C+Kotlin+%7C+Python+Learner;Turning+Ideas+Into+Digital+Solutions+✨;" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=25&center=true&vCenter=true&width=600&lines=She+Believed+She+Could+So+She+Coded;Turning+Ideas+Into+Digital+Solutions+✨;" />
 </p>
 
 Reach me at **thewni2003@gmail.com**
@@ -23,14 +23,14 @@ Reach me at **thewni2003@gmail.com**
   <img src="https://skillicons.dev/icons?i=java,kotlin,python,mysql,js,php,cpp,c,androidstudio,git" />
 </p>
 
-### 📊 GitHub Stats
+### Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Thewni03&show_icons=true&theme=radical&border_radius=20" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thewni03&theme=radical&border_radius=20" height="170"/>
 </p>
 
-### 📈 Activity Graph
+### Activity 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thewni03&theme=tokyo-night"/>
