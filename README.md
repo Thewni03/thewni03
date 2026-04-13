@@ -43,5 +43,5 @@ Information Technology Undergraduate • Backend Developer • Problem Solver
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thewni03&theme=github-compact&area=true&hide_border=true"/>
 </p>
 
-<img src="https://github.com/lowlighter/metrics/blob/examples/github-metrics.svg"/>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
